@@ -19,7 +19,7 @@ st.markdown(
     }
     /* Teks pada sidebar */
     [data-testid="stSidebar"] * {
-        color: white !important;
+        color: black !important;
         font-size: 11px;
         margin-bottom: 5px;
         margin-top: 5px;
